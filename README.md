@@ -33,4 +33,13 @@ To Run:
 2. From MARS-LE directory, run:
    java -jar BuildCustomLang.jar PokeAssembly.java
 3. Launch MARS LE, found in MARS-LE Folder
-4. 
+4. Switch language to Poke Assembly in the tools section
+5. Write your programs
+
+Included Programs: 
+PokeAssembly.java
+PokeAssembly.jar
+Poke_ex1.asm
+Poke_ex2.asm
+Poke_ex3.asm
+[INSERT GOOGLE SLIDES HERE]
